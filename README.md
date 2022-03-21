@@ -5,4 +5,4 @@
 - 💬 Ask me anything about Tech World.
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/emreozturanli)
 
-<img src="https://github-readme-stats.vercel.app/api?username=emreozturanli&theme=great-gatsby&show_icons=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=emreozturanli&theme=flag-india&show_icons=true" >
