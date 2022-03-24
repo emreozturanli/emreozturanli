@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Python, HTML, CSS, Bootsrap, JavaScript, SQL
 - 💞️ I’m looking to collaborate on GitHub
 - 💬 Ask me anything about Tech World.
-- 📫 How to reach me [LinkedIn](www.linkedin.com/in/emreozturanli)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/feed/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=emreozturanli&theme=flag-india&show_icons=true" >
