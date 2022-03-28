@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Emre
+# Hello there it is really nice to see you!!!!! 😎
+
+- 👋 I’m Emre
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Python, HTML, CSS, Bootsrap, JavaScript, SQL
 - 💞️ I’m looking to collaborate on GitHub
