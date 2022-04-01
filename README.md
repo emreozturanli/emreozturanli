@@ -3,7 +3,6 @@
 - 👋 I’m Emre
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Python, HTML, CSS, Bootsrap, JavaScript, SQL
-- 💞️ I’m looking to collaborate on GitHub
 - 💬 Ask me anything about Tech World.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/emreozturanli/)
 
