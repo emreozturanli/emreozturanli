@@ -1,4 +1,4 @@
-# Hello there it is really nice to see you!!!!! 😎
+# Hello there!!! It is really nice to see you!!!!! 😎
 
 - 👋 I’m Emre
 - 👀 I’m interested in Web Development 
