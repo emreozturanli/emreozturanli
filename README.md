@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Python, HTML, CSS, Bootstrap, JavaScript, SQL
 - 💬 Ask me anything about Tech World.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/emreozturanli/)
+- ⌨ You can view my <b>codepen</b> profile here ===> [CODEPEN](https://codepen.io/Emre-Ozturanli)
 
 ## Languages & Tools  🛠
 
