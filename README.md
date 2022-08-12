@@ -2,8 +2,7 @@
 
 - 👋 I’m Emre
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently improving my React, JavaScript, Python, HTML, CSS, Bootstrap skills.
-- 💬 Ask me anything about Tech World.
+- 💬 Ask me anything about Frontend Development.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/emreozturanli/)
 - ⌨ You can view my <b>codepen</b> profile here ===> [CODEPEN](https://codepen.io/Emre-Ozturanli)
 
@@ -23,6 +22,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<br>
+<br> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=emreozturanli&theme=flag-india&show_icons=true" >
