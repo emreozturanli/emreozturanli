@@ -4,7 +4,6 @@
 - 👀 I’m interested in Web Development 
 - 💬 Ask me anything about Frontend Development.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/emreozturanli/)
-- ⌨ You can view my <b>codepen</b> profile here ===> [CODEPEN](https://codepen.io/Emre-Ozturanli)
 
 ## Languages & Tools  🛠
 
